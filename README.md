@@ -1,4 +1,4 @@
-**Project Name:** Global Audience Films - Project Description
+**Project Name:** IMDB Movie Analysis
 
 **Overview:**
 This project is dedicated to providing recommendations for new movies that have the potential to resonate with a global audience and penetrate global markets. The focus is primarily on Adventure, Sci-fi, Fantasy, and Action genres, which have consistently contributed to high gross income and ranked among the top 3 contributors globally.
